@@ -2,5 +2,3 @@
 # SPDX-License-Identifier: Apache-2.0
 # Device specific property overrides
 
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.sf.lcd_density=560
